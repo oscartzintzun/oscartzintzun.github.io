@@ -1,0 +1,44 @@
+Body {
+  width: 100%;
+  margin: auto;
+}
+
+.container {
+  width: 960px
+  margin: 0 auto;
+}
+
+.header {
+  background: #FF3366;
+  width: 100%;
+  top: 0;
+  position: fixed;
+}
+
+.Logo {
+  float:left;
+  font-famliy: "Helvetica";
+    font-size: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+li{
+  list-style: none;
+  float: left;
+  margin-left: 15px;
+  padding-top: 5px;
+}
+
+.nav{
+  float: right;
+  margin-right:150px;
+  padding-top: 10px;
+}
+
+body {
+  color: #FF3366;
+}
